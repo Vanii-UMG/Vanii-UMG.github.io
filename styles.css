@@ -10,7 +10,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url('./img/reloj.jpg');
+    background-image: url('reloj.jpg');
     background-size: cover;
     background-position: center;
 }
